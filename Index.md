@@ -1,0 +1,15 @@
+---
+tags: [zdrowie, index]
+created: 2026-05-26
+---
+
+# Zdrowie — indeks notatek
+
+## Diety i plany żywieniowe
+- [[Dieta-Para-NiskiIG]] — 7-dniowy plan odchudzający o niskim IG dla pary (kobieta 30/80kg/173cm, mężczyzna 34/135kg/191cm), aktywność 3×30 min/tydz.
+
+## Treningi
+*(brak — do dodania)*
+
+## Pomiary i postępy
+*(brak — do dodania)*
