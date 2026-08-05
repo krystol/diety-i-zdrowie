@@ -256,7 +256,7 @@ Poza listą z [[Dieta-Para-NiskiIG]], dokup:
 
 | Tydzień | Data | Waga ona | Waga on | Regularność wypróżnień | Notatki |
 |---------|------|----------|---------|------------------------|---------|
-| 1 | 2026-08-05 | | | | start wersji przy zaparciach |
+| 1 | 2026-08-05 | | 128,0 kg | | start wersji przy zaparciach (on: -7 kg od 2026-05-26) |
 | 2 | | | | | |
 | 3 | | | | | |
 | 4 | | | | | |
@@ -266,6 +266,7 @@ Poza listą z [[Dieta-Para-NiskiIG]], dokup:
 ## Powiązane
 
 - [[Dieta-Para-NiskiIG]] — dieta bazowa, z której powstał ten wariant
+- [[Lista-Zakupow-Zaparcia-Dziennie]] — lista zakupów do tego planu, dzień po dniu
 - [[MEMORY]]
 
 ---
