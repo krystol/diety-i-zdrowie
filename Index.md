@@ -10,6 +10,7 @@ created: 2026-05-26
 - [[Dieta-Para-NiskiIG-Zaparcia]] — wariant diety bazowej, zmodyfikowany pod kątem regulacji wypróżnień (więcej błonnika, płynów, probiotyków).
 - [[Lista-Zakupow-Zaparcia-Dziennie]] — lista zakupów do diety przy zaparciach, rozbita dzień po dniu i pogrupowana wg działów sklepu, z checkboxami.
 - [[Dieta-Para-Zaparcia-NoweDania]] — nowa wersja diety przy zaparciach z innymi daniami; obiady gotowane raz, jedzone przez 2 dni (batch cooking); zaktualizowana waga jego (128 kg).
+- [[Lista-Zakupow-Zaparcia-NoweDania]] — lista zakupów do powyższej diety; obiady na 2 dni, reszta posiłków dzień po dniu, z checkboxami.
 
 ## Treningi
 *(brak — do dodania)*

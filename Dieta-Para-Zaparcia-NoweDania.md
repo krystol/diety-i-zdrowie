@@ -249,6 +249,7 @@ Strączki i warzywa korzeniowe w tych daniach to naturalnie duża dawka błonnik
 
 ## Powiązane
 
+- [[Lista-Zakupow-Zaparcia-NoweDania]] — lista zakupów do tego planu, obiady na 2 dni + reszta dzień po dniu
 - [[Dieta-Para-NiskiIG-Zaparcia]] — pełne zasady przeciw zaparciom, rytuał poranny, tabela produktów pomocnych
 - [[Dieta-Para-NiskiIG]] — dieta bazowa (pierwsza wersja)
 - [[MEMORY]]
